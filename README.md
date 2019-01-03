@@ -1,6 +1,7 @@
 # Casablanca
 Wordlist maker for cracking passwords!
-About
+
+About:
 
 The most common form of authentication is the combination of a username and a password or passphrase. If both match values stored within a locally stored table, the user is authenticated for a connection. Password strength is a measure of the difficulty involved in guessing or breaking the password through cryptographic techniques or library-based automated testing of alternate values.
 

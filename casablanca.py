@@ -8,7 +8,7 @@
 #  [Author]
 #
 #  ybenel=Ybenel
-#  twitter@_ybenel
+#  twitter@_Ybenel
 #  https://github.com/m1ndo
 #
 #  [License]
