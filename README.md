@@ -10,7 +10,9 @@ A weak password might be very short or only use alphanumberic characters, making
 That is why Casablanca was born, and it can be used in situations like legal penetration tests or forensic crime investigations.
 ```
 __Requirements__:
+
 python3.x
+
 __run__&&__Options__:
 ```python3 casablanca.py -h
 Options:
