@@ -7,9 +7,9 @@
 #
 #  [Author]
 #
-#  ybenel=Ybenel
-#  twitter@_ybenel
-#  https://github.com/m1ndo
+#  r2dr0dn  
+#  twitter@r2dr0dn
+#  https://github.com/r2dr0dn
 #
 #  [License]
 #
@@ -40,7 +40,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-__author__  =  "ybenel"
+__author__  =  "r2dr0dn"
 __license__ = "GPL"
 __version__ = "3.2.5-alpha"
 
@@ -137,17 +137,17 @@ def print_cow():
     print("        \  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # Profiler")
     print("           \033[1;31m(__)    )\ \033[1;m  ")
     print(
-        "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ ybenel | twitter_@_ybenel]"
+        "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ r2dr0dn | twitter_@r2dr0dn ]"
     )
-    print(28 * " " + "[ Ybenel | https://github.com/m1ndo/]\r\n")
+    print(28 * " " + "[ r2dr0dn | https://github.com/r2dr0dn/]\r\n")
 
 
 def version():
     """Display version"""
 
     print("\r\n	\033[1;31m[ casablanca.py ]  " + __version__ + "\033[1;m\r\n")
-    print("	* Created by ybenel - r2dr0dn@pm.me")
-    print("	* https://github.com/m1ndo\r\n")
+    print("	* Created by r2dr0dn - r2dr0dn@github.com")
+    print("	* https://github.com/r2dr0dn\r\n")
     print("	Take a look ./README.md file for more info about the program\r\n")
 
 
