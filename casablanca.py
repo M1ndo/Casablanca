@@ -8,7 +8,7 @@
 #  [Author]
 #
 #  ybenel=Ybenel
-#  twitter@_Ybenel
+#  twitter@_ybenel
 #  https://github.com/m1ndo
 #
 #  [License]
@@ -137,9 +137,9 @@ def print_cow():
     print("        \  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # Profiler")
     print("           \033[1;31m(__)    )\ \033[1;m  ")
     print(
-        "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ ybenel | twitter_@_ybenel ]"
+        "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ ybenel | twitter_@_ybenel]"
     )
-    print(28 * " " + "[ ybenel | https://github.com/m1ndo/]\r\n")
+    print(28 * " " + "[ Ybenel | https://github.com/m1ndo/]\r\n")
 
 
 def version():
